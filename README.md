@@ -28,7 +28,7 @@ Para usar el simulador, sigue estos pasos:
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/SergioAcostaTer/RISCV.git
     ```
 
 2. Instala las dependencias:
